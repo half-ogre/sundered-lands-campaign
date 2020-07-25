@@ -7,4 +7,5 @@ Folk are the people that inhabit the Folklands. They are beings of animal and pe
 Each Folk race a player chooses will have a custom homebrew race defined here.
 
 - [Axolotl Folk](/rules/races/axolotl-folk.md)
+- [Hamster Folk](/rules/races/hamster-folk.md)
 - [Owl Folk](/rules/races/owl-folk.md)
