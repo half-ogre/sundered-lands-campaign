@@ -10,7 +10,7 @@ In the Sundered Lands, a Hamster Folk looks like a short person with thick legs 
 ## Hamster Folk Traits
 - _**Ability Score Increases.**_ Your Dexterity score increases by 2.
 - _**Size.**_ Your size is Small.
-- _**Speed.**_ Your base walking speed is 30 feet
+- _**Speed.**_ Your base walking speed is 25 feet, and your base burrowing speed is 10 feet. 
 - _**Keen Smell.**_ You have advantage on Wisdom (Perception) checks that rely on smell.
 - _**Cheek Pouches (in Folklands).**_ Your cheeks function collectively as a _Bag of Holding_.
 - _**Tunneler (in Folklands).**_  You can burrow through dirt and loose rock at your burrow speed and leave a 5-foot-diameter tunnel in your wake.
