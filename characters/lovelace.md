@@ -1,7 +1,10 @@
 # Lovelace
+- Class: N/A
 - Level: 1st
 - Race: [Axolotl Folk](/rules/races/axolotl-folk.md)
 - Background: Knight of the Old Light
+- Alignment: Neutral good
+- Experience Points: Milestone
 
 ## Attributes
 - Strength: 15 (+2)
@@ -12,7 +15,6 @@
 - Charisma: 16 (+3)
 
 ## Characteristics
-- XP: N/A (using milestones)
 - HP: 11 of 11
 - Hit Dice: D10
 - Proficiency Bonus: +2
@@ -20,20 +22,20 @@
 - Initiative: +1
 - Size: Small
 - Speed: 20 ft (30 ft swimming)
-- Personality Trait: TBD
-- Ideal: TBD
-- Bond: TBD
-- Flaw: TBD
+- Personality Trait: I can find common ground between the fiercest enemies, empathizing with them and always working toward peace.
+- Ideal: Greater Good. Our lot is to lay down our lives in defense of others.
+- Bond: I fight for those who cannot fight for themselves.
+- Flaw: I have trouble trusting in my allies.
 
 ## Proficiencies
 - Armor: 
-  - all armor
-  - shields
+  - All armor
+  - Shields
 - Weapons:
-  - simple weapons
-  - martial weapons
+  - Simple weapons
+  - Martial weapons
 - Tools:
-    - one type of musical instrument
+  - Bagpipes
 - Saving Throws:
   - Charisma
   - Wisdom
@@ -55,15 +57,23 @@
 
 ## Equipment & Money
 - 15 Folklands gold coins
-- battleaxe
-- chain mail
-- common clothes
-- explorer's pack
-- javelins (5)
-- money pouch
-- music instrument
-- signet ring of the Knights of the Old Light
-- tabard of the Knights of the Old Light with Knight-Soldier rank
+- Battleaxe
+- Bagpipes
+- Chain mail
+- Common clothes
+- Explorer's pack
+  - Backpack
+  - Bedroll
+  - Mess kit
+  - Tinderbox
+  - Torches (10)
+  - Rations (14)
+  - Waterskin
+  - Rope (50', hempen)
+- Javelins (5)
+- Money pouch
+- Signet ring of the Knights of the Old Light
+- Tabard of the Knights of the Old Light with Knight-Soldier rank
 
 
 ## Armor Sets
