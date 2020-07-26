@@ -2,10 +2,10 @@
 The Kangaroo Folk are a [Folk](/rules/races/README.md#folk) race of a person spirit harmoniously entwined with a kangaroo spirit.
 
 ### In the Folklands
-In the Folklands, a Kangaroo Folk looks like mostly like a kangaroo, but has longer, more person-like arms, hands, and a head that resembles a person more than a kangaroo.
+In the Folklands, a Kangaroo Folk looks mostly like a kangaroo, but has longer, more person-like arms, person hands, and a head that resembles a person more than a kangaroo.
 
 ### In the Sundered Lands
-In the Sundered Lands, a Kangaroo Folk looks like a taller person with strangely long legs that are always slightly bent, exceptionally long feet, and shorter arms set closer in. Their ears are long and slightly pointed.
+In the Sundered Lands, a Kangaroo Folk looks like a person with strangely long legs that are always slightly bent, exceptionally long feet, and shorter arms set closer in. Their ears are long and slightly pointed.
 
 ## Kangaroo Folk Traits
 - _**Ability Score Increases.**_ Your Strength score increases by 2, and your Constitution score increases by 1.
