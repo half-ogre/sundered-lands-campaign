@@ -12,7 +12,7 @@
 - Charisma: 16 (+3)
 
 ## Characteristics
-- XP: 0
+- XP: N/A (using milestones)
 - HP: 11 of 11
 - Hit Dice: D10
 - Proficiency Bonus: +2
