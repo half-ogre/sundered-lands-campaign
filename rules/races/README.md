@@ -8,4 +8,5 @@ Each Folk race a player chooses will have a custom homebrew race defined here.
 
 - [Axolotl Folk](/rules/races/axolotl-folk.md)
 - [Hamster Folk](/rules/races/hamster-folk.md)
+- [Kangaroo Folk](/rules/races/kangaroo-folk.md)
 - [Owl Folk](/rules/races/owl-folk.md)
